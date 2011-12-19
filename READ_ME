@@ -1,0 +1,18 @@
+First us "mgrast-parser-seeds.py' need to designate an output file. The output 
+will be a file with all sites and subsystem levels separated by '|'
+
+Then can use either of the "subsystem" scripts.  "subsystem-parser.py" will 
+produce a file with all of the subsystem present and can specify which 
+subsystem level you want shown by changing the "LEVEL" number in the script.
+
+"subsystem-selector.py" is the same as the "subsystem-prser.py" script except
+ it lets you pick which subsystem you want specific information on.  Pick
+ which subsystem you want by removing the '#' from infront of one of the 
+general subsystem categories.
+
+"mgrast-parser-seeds.py" and "subsystem-parser.py" were both written by Adina 
+Howe
+
+"subsystem-selector.py" was modified from "subsystem-parser.py" by Aaron 
+Garoutte.
+ 
